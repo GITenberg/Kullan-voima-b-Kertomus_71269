@@ -1,0 +1,38 @@
+_repo: Kullan-voima-b-Kertomus_71269
+_version: 0.0.1
+alternative_title: The doings of Raffles Haw. Finnish
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2023-07-25'
+identifiers:
+  gutenberg: '71269'
+language: fi
+pgterms:marc905: 20210303020931doyle
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bArvi A. Karisto, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Philanthropists -- Fiction'
+- !lcsh 'Alchemists -- Fiction'
+- !lcsh 'Wealth -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Kullan voima : $b Kertomus'
+url: http://www.gutenberg.org/ebooks/71269
