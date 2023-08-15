@@ -1,6 +1,9 @@
 _repo: Kullan-voima-b-Kertomus_71269
 _version: 0.1.0
 alternative_title: The doings of Raffles Haw. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71269#Kullan-voima-b-Kertomus
 gutenberg_issued: '2023-07-25'
 identifiers:
   gutenberg: '71269'
